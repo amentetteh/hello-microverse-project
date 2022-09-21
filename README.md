@@ -8,9 +8,10 @@
 ## Built With
 
 - Major languages
-** HTML5
-** CSS3
-** JAVASCRIPT
+
+**HTML5**
+**CSS3**
+**JAVASCRIPT**
 
 ## Live Demo (if available)
 
@@ -43,9 +44,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/amentetteh)
-- Twitter: [@twitterhandle](https://twitter.com/amentetteh)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/amentetteh)
+- GitHub: [@amentetteh](https://github.com/amentetteh)
+- Twitter: [@amentetteh](https://twitter.com/amentetteh)
+- LinkedIn: [amentetteh](https://linkedin.com/in/amentetteh)
 
 ## 🤝 Contributing
 
